@@ -1,18 +1,35 @@
-### Who am I?
+### Welcome
 
-I am just a small open source developer located in Melbourne. 
+My name is Robotichead, or robotic for short. I am a small developer located in Melbourne. I am currently contributing back to the Open Source Community by developing NearBeach.
 
+## How do I pay the bills?
 
-## What do I do?
+During the day, I blend in with the general community by working a simple 9 to 5 job at a Digital Agency. There we use the following stacks;
 
-I work a simple 9 to 5 job at a Digital Agency for my day job - I do need to pay those bills.
-
-As for open source, I am have been working on NearBeach for the last 4 years.
+- Laravel
+- VueJS
+- WordPress
+- Django
+- MySQL
+- MongoDB
+- Linux (Ubuntu)
 
 ## What is NearBeach?
 
-NearBeach is an open source project management system. Designed to house all your opportunities, requirements, tasks, projects, and your request for changes. It is built apon the Django webframework and is currently going through a refractor.
+NearBeach is an Open Source project management system. You will be able to;
+
+- Gather user requirements
+- Create projects/tasks
+- Deploy these changes/projects using our request for change
+
+NearBeach uses the following programming languages;
+
+- Django/Python
+- VueJS/JavaScript
 
 ## Where can I follow you?
 
-Well you are more than welcome to follow my Github acount or my twitter account @robotichead.
+You are most welcome to follow me here at github, however I also have;
+
+- Twitter: https://twitter.com/robotichead
+- Twitch: https://twitch.tv/robotichead
