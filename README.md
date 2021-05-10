@@ -26,6 +26,8 @@ NearBeach uses the following programming languages;
 
 - Django/Python
 - VueJS/JavaScript
+- Cypress.io
+- JestJS
 
 ## Where can I follow you?
 
