@@ -34,3 +34,7 @@ You are most welcome to follow me here at github, however I also have;
 - Twitter: https://twitter.com/robotichead
 - Twitch: https://twitch.tv/robotichead
 - YouTube: https://youtube.com/@robotichead
+
+## Hactoberfest 2023
+
+[![An image of @robotichead's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/robotichead)](https://holopin.io/@robotichead)
